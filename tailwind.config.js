@@ -8,7 +8,8 @@ module.exports = {
         DEFAULT: {
           css: {
             code: {
-              backgroundColor: theme('#25292e'),
+              color: '#ffb63c',
+              backgroundColor: theme('colors.slate.100'),
               borderRadius: theme('borderRadius.sm'),
               paddingTop: theme('padding[1]'),
               paddingRight: theme('padding[1.5]'),
